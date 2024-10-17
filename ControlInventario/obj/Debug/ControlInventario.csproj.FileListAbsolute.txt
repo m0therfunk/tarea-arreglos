@@ -1,0 +1,7 @@
+C:\Users\danio\source\repos\ControlInventario\ControlInventario\bin\Debug\ControlInventario.exe.config
+C:\Users\danio\source\repos\ControlInventario\ControlInventario\bin\Debug\ControlInventario.exe
+C:\Users\danio\source\repos\ControlInventario\ControlInventario\bin\Debug\ControlInventario.pdb
+C:\Users\danio\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csproj.AssemblyReference.cache
+C:\Users\danio\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csproj.CoreCompileInputs.cache
+C:\Users\danio\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.exe
+C:\Users\danio\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.pdb

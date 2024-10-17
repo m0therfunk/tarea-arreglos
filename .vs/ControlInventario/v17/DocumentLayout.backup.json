@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danio\\source\\repos\\ControlInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|c:\\users\\danio\\source\\repos\\controlinventario\\controlinventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|C:\\Users\\danio\\source\\repos\\ControlInventario\\controlinventario\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|C:\\Users\\danio\\source\\repos\\ControlInventario\\controlinventario\\arreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\arreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControlInventario||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|C:\\Users\\danio\\source\\repos\\ControlInventario\\controlinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5CA75A-988A-4FA7-B2CB-069319AC1C80}|ControlInventario\\ControlInventario.csproj|c:\\users\\danio\\source\\repos\\controlinventario\\controlinventario\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\Menu.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Menu.cs",
+              "ToolTip": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\Menu.cs*",
+              "RelativeToolTip": "ControlInventario\\Menu.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:28:36.112Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlInventario",
+              "DocumentMoniker": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\ControlInventario.csproj",
+              "RelativeDocumentMoniker": "ControlInventario\\ControlInventario.csproj",
+              "ToolTip": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\ControlInventario.csproj",
+              "RelativeToolTip": "ControlInventario\\ControlInventario.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-09T18:57:33.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "articulos.cs",
+              "DocumentMoniker": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\articulos.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\articulos.cs",
+              "ToolTip": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\articulos.cs",
+              "RelativeToolTip": "ControlInventario\\articulos.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAmwI4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:45:27.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arreglo.cs",
+              "DocumentMoniker": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\arreglo.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\arreglo.cs",
+              "ToolTip": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\arreglo.cs",
+              "RelativeToolTip": "ControlInventario\\arreglo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:31:13.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\Program.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\danio\\source\\repos\\ControlInventario\\ControlInventario\\Program.cs",
+              "RelativeToolTip": "ControlInventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:51:04.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
